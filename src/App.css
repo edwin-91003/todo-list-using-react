@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  margin-left: 5px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url('C:\Users\bhoby\OneDrive\Desktop\todolist\todolist\imagess.jpeg'); /* Replace with your image file */
+  background-size: cover;
+  background-position: center;
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  margin-top: 50px;
+  background-color: rgba(29, 227, 227, 0.8); /* Add a semi-transparent white background for better readability */
+  padding: 50px;
+  border-radius: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  margin-left: 5px;
+}
+.input{
+  background-color: beige;
+  color: black;
+}
